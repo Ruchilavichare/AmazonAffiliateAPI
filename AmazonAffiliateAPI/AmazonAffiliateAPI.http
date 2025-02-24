@@ -1,0 +1,5 @@
+@AmazonAffiliateAPI_HostAddress = http://localhost:5226
+
+Accept: application/json
+
+###

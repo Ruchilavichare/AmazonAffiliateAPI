@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hfXUWVJgUnZ3uj8BWo+ftMOAtT0zdnHxsQuspw9UN/U=",
+  "Source": "AmazonAffiliateAPI",
+  "BasePath": "_content/AmazonAffiliateAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

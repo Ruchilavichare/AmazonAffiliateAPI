@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruchila\\source\\repos\\AmazonAffiliateAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756B4648-B12D-404E-B861-F8A849256285}|AmazonAffiliateAPI.csproj|c:\\users\\ruchila\\source\\repos\\amazonaffiliateapi\\controllers\\amazonaffiliatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756B4648-B12D-404E-B861-F8A849256285}|AmazonAffiliateAPI.csproj|solutionrelative:controllers\\amazonaffiliatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AmazonAffiliateController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\AmazonAffiliateAPI\\Controllers\\AmazonAffiliateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AmazonAffiliateController.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\AmazonAffiliateAPI\\Controllers\\AmazonAffiliateController.cs",
+              "RelativeToolTip": "Controllers\\AmazonAffiliateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:53:00.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

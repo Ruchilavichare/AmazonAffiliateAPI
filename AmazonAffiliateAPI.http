@@ -1,0 +1,6 @@
+@AmazonAffiliateAPI_HostAddress = http://localhost:5110
+
+GET {{AmazonAffiliateAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
