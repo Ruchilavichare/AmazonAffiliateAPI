@@ -38,7 +38,7 @@ Redis (Optional, for caching)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/amazon-affiliate-api.git
+git clone [https://github.com/your-repo/amazon-affiliate-api.git](https://github.com/Ruchilavichare/AmazonAffiliateAPI)
 cd amazon-affiliate-api
 
 2️⃣ Install Dependencies
@@ -52,6 +52,9 @@ Open appsettings.json and update the connection string:
 "ConnectionStrings": {
     "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=AmazonAffiliateDB;Trusted_Connection=True;Encrypt=False"
 }
+
+Add AccessKey, SecretKey, AssociateTag in appsettings.json
+Add Amazon API URL and AccessToken in services folder
 
 Apply Migrations to create the database:
 
